@@ -76,3 +76,10 @@ In this phase, two **regression models** were implemented:
 - **Machine Learning Predictability:** 
   - **Random Forest (RMSE: 86.63) is the best model** for Tesla stock price prediction.
   - **KNN struggled with capturing complex relationships** but still provided insights.
+
+---
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/a3da9874-ce2e-473f-ada9-c5a2cc8ef595" />
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/eebbc138-3819-44aa-8852-0ad8cc198e98" />
+
+
+
